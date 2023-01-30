@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html{
+    
+}
+.signup{
+    display: grid;
+    max-width: 1440px;
+    margin: auto;
+    grid-template-columns: 1fr 1fr;
+    font-size: 18px;
+}
+.signup_left_section{
+    background: #fff;
+    padding-left: 6.9%;
+    padding-top: 88px;
+    padding-bottom: 180px;
+    
+}
+.signup_left_section p{
+    max-width: 521;
+    color: #fff;
+    margin-top: 36px;
+    margin-bottom: 100px;
+}
+.signup_right_section{
+    padding-top: 128px;
+    padding-bottom: 4.8rem;
+
+}
+.signup_right_section p{
+
+}
